@@ -1,5 +1,4 @@
 package com.bl.wkx;
-
 import java.util.*;
 public class Dice {
 
